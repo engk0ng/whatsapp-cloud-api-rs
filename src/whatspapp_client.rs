@@ -3,7 +3,7 @@ use crate::{
     WhatsappError,
 };
 
-const WHATSAPP_API_URL: &str = "https://graph.facebook.com/v13.0/105940028793862/messages";
+const WHATSAPP_API_URL: &str = "https://graph.facebook.com/v13.0/105750442169602/messages";
 
 pub struct WhatasppClient {
     access_token: String,
